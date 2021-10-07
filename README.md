@@ -1,4 +1,4 @@
-# :white_check_mark: 대신증권 크레온API를 활용한 자동주식매매 프로그램 :moneybag:
+# :white_check_mark: 대신증권 API를 활용한 자동주식매매 프로그램 :moneybag:
 
 실제 비율을 통해 분산해서 투자가 가능하며, 일반적으로 종목은 ETF를 활용하는 것을 추천드립니다. :pray:
 
