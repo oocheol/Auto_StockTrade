@@ -8,9 +8,9 @@
 
 ### 이 프로그램에 포함된 기능 :+1:
 1. 크레온 HTS 자동 로그인
-2. 실시간으로 등록된 종목 가격 포착 (장 시작 후)
-3. 조건에 맞는 가격의 주식종목 자동 매수 (장 시작 후)
-4. 일괄 매도 (장 마감 직전)
+2. 실시간으로 등록된 종목 가격 포착 (장 시작 후) - :printer: SLACK 연동 알림서비스
+3. 조건에 맞는 가격의 주식종목 자동 매수 (장 시작 후) - :printer: SLACK 연동 알림서비스
+4. 일괄 매도 (장 마감 직전) - :printer: SLACK 연동 알림서비스
 5. 프로그램 종료
 
 :moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag:
