@@ -13,4 +13,6 @@
 4. 일괄 매도 (장 마감 직전) - :printer: SLACK 연동 알림서비스
 5. 프로그램 종료
 
+![image](https://user-images.githubusercontent.com/86232509/136301728-0f4f75ad-6281-40a4-80a1-7b33ae440b05.png)
+
 :moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag:
