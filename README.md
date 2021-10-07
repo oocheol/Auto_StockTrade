@@ -14,6 +14,8 @@
 5. 프로그램 종료
 
 :small_red_triangle_down: 실제 프로그램 동작시 SLACK으로 온 메시지 :small_red_triangle_down:
+
+
 ![image](https://user-images.githubusercontent.com/86232509/136301728-0f4f75ad-6281-40a4-80a1-7b33ae440b05.png)
 
 :moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag::moneybag:
